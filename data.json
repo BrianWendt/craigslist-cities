@@ -1,0 +1,3140 @@
+{
+    "US": {
+        "Alabama": {
+            "auburn": {
+                "name": "Auburn",
+                "link": "\/\/auburn.craigslist.org\/"
+            },
+            "bham": {
+                "name": "Birmingham",
+                "link": "\/\/bham.craigslist.org\/"
+            },
+            "dothan": {
+                "name": "Dothan",
+                "link": "\/\/dothan.craigslist.org\/"
+            },
+            "shoals": {
+                "name": "Florence \/ Muscle Shoals",
+                "link": "\/\/shoals.craigslist.org\/"
+            },
+            "gadsden": {
+                "name": "Gadsden-anniston",
+                "link": "\/\/gadsden.craigslist.org\/"
+            },
+            "huntsville": {
+                "name": "Huntsville \/ Decatur",
+                "link": "\/\/huntsville.craigslist.org\/"
+            },
+            "mobile": {
+                "name": "Mobile",
+                "link": "\/\/mobile.craigslist.org\/"
+            },
+            "montgomery": {
+                "name": "Montgomery",
+                "link": "\/\/montgomery.craigslist.org\/"
+            },
+            "tuscaloosa": {
+                "name": "Tuscaloosa",
+                "link": "\/\/tuscaloosa.craigslist.org\/"
+            }
+        },
+        "Alaska": {
+            "anchorage": {
+                "name": "Anchorage \/ Mat-su",
+                "link": "\/\/anchorage.craigslist.org\/"
+            },
+            "fairbanks": {
+                "name": "Fairbanks",
+                "link": "\/\/fairbanks.craigslist.org\/"
+            },
+            "kenai": {
+                "name": "Kenai Peninsula",
+                "link": "\/\/kenai.craigslist.org\/"
+            },
+            "juneau": {
+                "name": "Southeast Alaska",
+                "link": "\/\/juneau.craigslist.org\/"
+            }
+        },
+        "Arizona": {
+            "flagstaff": {
+                "name": "Flagstaff \/ Sedona",
+                "link": "\/\/flagstaff.craigslist.org\/"
+            },
+            "mohave": {
+                "name": "Mohave County",
+                "link": "\/\/mohave.craigslist.org\/"
+            },
+            "phoenix": {
+                "name": "Phoenix",
+                "link": "\/\/phoenix.craigslist.org\/"
+            },
+            "prescott": {
+                "name": "Prescott",
+                "link": "\/\/prescott.craigslist.org\/"
+            },
+            "showlow": {
+                "name": "Show Low",
+                "link": "\/\/showlow.craigslist.org\/"
+            },
+            "sierravista": {
+                "name": "Sierra Vista",
+                "link": "\/\/sierravista.craigslist.org\/"
+            },
+            "tucson": {
+                "name": "Tucson",
+                "link": "\/\/tucson.craigslist.org\/"
+            },
+            "yuma": {
+                "name": "Yuma",
+                "link": "\/\/yuma.craigslist.org\/"
+            }
+        },
+        "Arkansas": {
+            "fayar": {
+                "name": "Fayetteville ",
+                "link": "\/\/fayar.craigslist.org\/"
+            },
+            "fortsmith": {
+                "name": "Fort Smith",
+                "link": "\/\/fortsmith.craigslist.org\/"
+            },
+            "jonesboro": {
+                "name": "Jonesboro",
+                "link": "\/\/jonesboro.craigslist.org\/"
+            },
+            "littlerock": {
+                "name": "Little Rock",
+                "link": "\/\/littlerock.craigslist.org\/"
+            },
+            "texarkana": {
+                "name": "Texarkana",
+                "link": "\/\/texarkana.craigslist.org\/"
+            }
+        },
+        "California": {
+            "bakersfield": {
+                "name": "Bakersfield",
+                "link": "\/\/bakersfield.craigslist.org\/"
+            },
+            "chico": {
+                "name": "Chico",
+                "link": "\/\/chico.craigslist.org\/"
+            },
+            "fresno": {
+                "name": "Fresno \/ Madera",
+                "link": "\/\/fresno.craigslist.org\/"
+            },
+            "goldcountry": {
+                "name": "Gold Country",
+                "link": "\/\/goldcountry.craigslist.org\/"
+            },
+            "hanford": {
+                "name": "Hanford-corcoran",
+                "link": "\/\/hanford.craigslist.org\/"
+            },
+            "humboldt": {
+                "name": "Humboldt County",
+                "link": "\/\/humboldt.craigslist.org\/"
+            },
+            "imperial": {
+                "name": "Imperial County",
+                "link": "\/\/imperial.craigslist.org\/"
+            },
+            "inlandempire": {
+                "name": "Inland Empire",
+                "link": "\/\/inlandempire.craigslist.org\/"
+            },
+            "losangeles": {
+                "name": "Los Angeles",
+                "link": "\/\/losangeles.craigslist.org\/"
+            },
+            "mendocino": {
+                "name": "Mendocino County",
+                "link": "\/\/mendocino.craigslist.org\/"
+            },
+            "merced": {
+                "name": "Merced",
+                "link": "\/\/merced.craigslist.org\/"
+            },
+            "modesto": {
+                "name": "Modesto",
+                "link": "\/\/modesto.craigslist.org\/"
+            },
+            "monterey": {
+                "name": "Monterey Bay",
+                "link": "\/\/monterey.craigslist.org\/"
+            },
+            "orangecounty": {
+                "name": "Orange County",
+                "link": "\/\/orangecounty.craigslist.org\/"
+            },
+            "palmsprings": {
+                "name": "Palm Springs",
+                "link": "\/\/palmsprings.craigslist.org\/"
+            },
+            "redding": {
+                "name": "Redding",
+                "link": "\/\/redding.craigslist.org\/"
+            },
+            "sacramento": {
+                "name": "Sacramento",
+                "link": "\/\/sacramento.craigslist.org\/"
+            },
+            "sandiego": {
+                "name": "San Diego",
+                "link": "\/\/sandiego.craigslist.org\/"
+            },
+            "sfbay": {
+                "name": "San Francisco Bay Area",
+                "link": "\/\/sfbay.craigslist.org\/"
+            },
+            "slo": {
+                "name": "San Luis Obispo",
+                "link": "\/\/slo.craigslist.org\/"
+            },
+            "santabarbara": {
+                "name": "Santa Barbara",
+                "link": "\/\/santabarbara.craigslist.org\/"
+            },
+            "santamaria": {
+                "name": "Santa Maria",
+                "link": "\/\/santamaria.craigslist.org\/"
+            },
+            "siskiyou": {
+                "name": "Siskiyou County",
+                "link": "\/\/siskiyou.craigslist.org\/"
+            },
+            "stockton": {
+                "name": "Stockton",
+                "link": "\/\/stockton.craigslist.org\/"
+            },
+            "susanville": {
+                "name": "Susanville",
+                "link": "\/\/susanville.craigslist.org\/"
+            },
+            "ventura": {
+                "name": "Ventura County",
+                "link": "\/\/ventura.craigslist.org\/"
+            },
+            "visalia": {
+                "name": "Visalia-tulare",
+                "link": "\/\/visalia.craigslist.org\/"
+            },
+            "yubasutter": {
+                "name": "Yuba-sutter",
+                "link": "\/\/yubasutter.craigslist.org\/"
+            }
+        },
+        "Colorado": {
+            "boulder": {
+                "name": "Boulder",
+                "link": "\/\/boulder.craigslist.org\/"
+            },
+            "cosprings": {
+                "name": "Colorado Springs",
+                "link": "\/\/cosprings.craigslist.org\/"
+            },
+            "denver": {
+                "name": "Denver",
+                "link": "\/\/denver.craigslist.org\/"
+            },
+            "eastco": {
+                "name": "Eastern CO",
+                "link": "\/\/eastco.craigslist.org\/"
+            },
+            "fortcollins": {
+                "name": "Fort Collins \/ North CO",
+                "link": "\/\/fortcollins.craigslist.org\/"
+            },
+            "rockies": {
+                "name": "High Rockies",
+                "link": "\/\/rockies.craigslist.org\/"
+            },
+            "pueblo": {
+                "name": "Pueblo",
+                "link": "\/\/pueblo.craigslist.org\/"
+            },
+            "westslope": {
+                "name": "Western Slope",
+                "link": "\/\/westslope.craigslist.org\/"
+            }
+        },
+        "Connecticut": {
+            "newlondon": {
+                "name": "Eastern CT",
+                "link": "\/\/newlondon.craigslist.org\/"
+            },
+            "hartford": {
+                "name": "Hartford",
+                "link": "\/\/hartford.craigslist.org\/"
+            },
+            "newhaven": {
+                "name": "New Haven",
+                "link": "\/\/newhaven.craigslist.org\/"
+            },
+            "nwct": {
+                "name": "Northwest CT",
+                "link": "\/\/nwct.craigslist.org\/"
+            }
+        },
+        "Delaware": {
+            "delaware": {
+                "name": "Delaware",
+                "link": "\/\/delaware.craigslist.org\/"
+            }
+        },
+        "District of Columbia": {
+            "washingtondc": {
+                "name": "Washington",
+                "link": "\/\/washingtondc.craigslist.org\/"
+            }
+        },
+        "Florida": {
+            "miami": {
+                "name": "Palm Beach County",
+                "link": "\/\/miami.craigslist.org\/pbc"
+            },
+            "daytona": {
+                "name": "Daytona Beach",
+                "link": "\/\/daytona.craigslist.org\/"
+            },
+            "keys": {
+                "name": "Florida Keys",
+                "link": "\/\/keys.craigslist.org\/"
+            },
+            "fortlauderdale": {
+                "name": "Fort Lauderdale",
+                "link": "\/\/fortlauderdale.craigslist.org\/"
+            },
+            "fortmyers": {
+                "name": "Ft Myers \/ SW Florida",
+                "link": "\/\/fortmyers.craigslist.org\/"
+            },
+            "gainesville": {
+                "name": "Gainesville",
+                "link": "\/\/gainesville.craigslist.org\/"
+            },
+            "cfl": {
+                "name": "Heartland Florida",
+                "link": "\/\/cfl.craigslist.org\/"
+            },
+            "jacksonville": {
+                "name": "Jacksonville",
+                "link": "\/\/jacksonville.craigslist.org\/"
+            },
+            "lakeland": {
+                "name": "Lakeland",
+                "link": "\/\/lakeland.craigslist.org\/"
+            },
+            "lakecity": {
+                "name": "North Central FL",
+                "link": "\/\/lakecity.craigslist.org\/"
+            },
+            "ocala": {
+                "name": "Ocala",
+                "link": "\/\/ocala.craigslist.org\/"
+            },
+            "okaloosa": {
+                "name": "Okaloosa \/ Walton",
+                "link": "\/\/okaloosa.craigslist.org\/"
+            },
+            "orlando": {
+                "name": "Orlando",
+                "link": "\/\/orlando.craigslist.org\/"
+            },
+            "panamacity": {
+                "name": "Panama City",
+                "link": "\/\/panamacity.craigslist.org\/"
+            },
+            "pensacola": {
+                "name": "Pensacola",
+                "link": "\/\/pensacola.craigslist.org\/"
+            },
+            "sarasota": {
+                "name": "Sarasota-bradenton",
+                "link": "\/\/sarasota.craigslist.org\/"
+            },
+            "spacecoast": {
+                "name": "Space Coast",
+                "link": "\/\/spacecoast.craigslist.org\/"
+            },
+            "staugustine": {
+                "name": "St Augustine",
+                "link": "\/\/staugustine.craigslist.org\/"
+            },
+            "tallahassee": {
+                "name": "Tallahassee",
+                "link": "\/\/tallahassee.craigslist.org\/"
+            },
+            "tampa": {
+                "name": "Tampa Bay Area",
+                "link": "\/\/tampa.craigslist.org\/"
+            },
+            "treasure": {
+                "name": "Treasure Coast",
+                "link": "\/\/treasure.craigslist.org\/"
+            }
+        },
+        "Georgia": {
+            "albanyga": {
+                "name": "Albany ",
+                "link": "\/\/albanyga.craigslist.org\/"
+            },
+            "athensga": {
+                "name": "Athens",
+                "link": "\/\/athensga.craigslist.org\/"
+            },
+            "atlanta": {
+                "name": "Atlanta",
+                "link": "\/\/atlanta.craigslist.org\/"
+            },
+            "augusta": {
+                "name": "Augusta",
+                "link": "\/\/augusta.craigslist.org\/"
+            },
+            "brunswick": {
+                "name": "Brunswick",
+                "link": "\/\/brunswick.craigslist.org\/"
+            },
+            "columbusga": {
+                "name": "Columbus ",
+                "link": "\/\/columbusga.craigslist.org\/"
+            },
+            "macon": {
+                "name": "Macon \/ Warner Robins",
+                "link": "\/\/macon.craigslist.org\/"
+            },
+            "nwga": {
+                "name": "Northwest GA",
+                "link": "\/\/nwga.craigslist.org\/"
+            },
+            "savannah": {
+                "name": "Savannah \/ Hinesville",
+                "link": "\/\/savannah.craigslist.org\/"
+            },
+            "statesboro": {
+                "name": "Statesboro",
+                "link": "\/\/statesboro.craigslist.org\/"
+            },
+            "valdosta": {
+                "name": "Valdosta",
+                "link": "\/\/valdosta.craigslist.org\/"
+            }
+        },
+        "Hawaii": {
+            "honolulu": {
+                "name": "Hawaii",
+                "link": "\/\/honolulu.craigslist.org\/"
+            }
+        },
+        "Idaho": {
+            "boise": {
+                "name": "Boise",
+                "link": "\/\/boise.craigslist.org\/"
+            },
+            "eastidaho": {
+                "name": "East Idaho",
+                "link": "\/\/eastidaho.craigslist.org\/"
+            },
+            "lewiston": {
+                "name": "Lewiston \/ Clarkston",
+                "link": "\/\/lewiston.craigslist.org\/"
+            },
+            "twinfalls": {
+                "name": "Twin Falls",
+                "link": "\/\/twinfalls.craigslist.org\/"
+            }
+        },
+        "Illinois": {
+            "bn": {
+                "name": "Bloomington-normal",
+                "link": "\/\/bn.craigslist.org\/"
+            },
+            "chambana": {
+                "name": "Champaign Urbana",
+                "link": "\/\/chambana.craigslist.org\/"
+            },
+            "chicago": {
+                "name": "Chicago",
+                "link": "\/\/chicago.craigslist.org\/"
+            },
+            "decatur": {
+                "name": "Decatur",
+                "link": "\/\/decatur.craigslist.org\/"
+            },
+            "lasalle": {
+                "name": "La Salle Co",
+                "link": "\/\/lasalle.craigslist.org\/"
+            },
+            "mattoon": {
+                "name": "Mattoon-charleston",
+                "link": "\/\/mattoon.craigslist.org\/"
+            },
+            "peoria": {
+                "name": "Peoria",
+                "link": "\/\/peoria.craigslist.org\/"
+            },
+            "rockford": {
+                "name": "Rockford",
+                "link": "\/\/rockford.craigslist.org\/"
+            },
+            "carbondale": {
+                "name": "Southern Illinois",
+                "link": "\/\/carbondale.craigslist.org\/"
+            },
+            "springfieldil": {
+                "name": "Springfield ",
+                "link": "\/\/springfieldil.craigslist.org\/"
+            },
+            "quincy": {
+                "name": "Western IL",
+                "link": "\/\/quincy.craigslist.org\/"
+            }
+        },
+        "Indiana": {
+            "bloomington": {
+                "name": "Bloomington",
+                "link": "\/\/bloomington.craigslist.org\/"
+            },
+            "evansville": {
+                "name": "Evansville",
+                "link": "\/\/evansville.craigslist.org\/"
+            },
+            "fortwayne": {
+                "name": "Fort Wayne",
+                "link": "\/\/fortwayne.craigslist.org\/"
+            },
+            "indianapolis": {
+                "name": "Indianapolis",
+                "link": "\/\/indianapolis.craigslist.org\/"
+            },
+            "kokomo": {
+                "name": "Kokomo",
+                "link": "\/\/kokomo.craigslist.org\/"
+            },
+            "tippecanoe": {
+                "name": "Lafayette \/ West Lafayette",
+                "link": "\/\/tippecanoe.craigslist.org\/"
+            },
+            "muncie": {
+                "name": "Muncie \/ Anderson",
+                "link": "\/\/muncie.craigslist.org\/"
+            },
+            "richmondin": {
+                "name": "Richmond ",
+                "link": "\/\/richmondin.craigslist.org\/"
+            },
+            "southbend": {
+                "name": "South Bend \/ Michiana",
+                "link": "\/\/southbend.craigslist.org\/"
+            },
+            "terrehaute": {
+                "name": "Terre Haute",
+                "link": "\/\/terrehaute.craigslist.org\/"
+            }
+        },
+        "Iowa": {
+            "ames": {
+                "name": "Ames",
+                "link": "\/\/ames.craigslist.org\/"
+            },
+            "cedarrapids": {
+                "name": "Cedar Rapids",
+                "link": "\/\/cedarrapids.craigslist.org\/"
+            },
+            "desmoines": {
+                "name": "Des Moines",
+                "link": "\/\/desmoines.craigslist.org\/"
+            },
+            "dubuque": {
+                "name": "Dubuque",
+                "link": "\/\/dubuque.craigslist.org\/"
+            },
+            "fortdodge": {
+                "name": "Fort Dodge",
+                "link": "\/\/fortdodge.craigslist.org\/"
+            },
+            "iowacity": {
+                "name": "Iowa City",
+                "link": "\/\/iowacity.craigslist.org\/"
+            },
+            "masoncity": {
+                "name": "Mason City",
+                "link": "\/\/masoncity.craigslist.org\/"
+            },
+            "quadcities": {
+                "name": "Quad Cities",
+                "link": "\/\/quadcities.craigslist.org\/"
+            },
+            "siouxcity": {
+                "name": "Sioux City",
+                "link": "\/\/siouxcity.craigslist.org\/"
+            },
+            "ottumwa": {
+                "name": "Southeast IA",
+                "link": "\/\/ottumwa.craigslist.org\/"
+            },
+            "waterloo": {
+                "name": "Waterloo \/ Cedar Falls",
+                "link": "\/\/waterloo.craigslist.org\/"
+            }
+        },
+        "Kansas": {
+            "lawrence": {
+                "name": "Lawrence",
+                "link": "\/\/lawrence.craigslist.org\/"
+            },
+            "ksu": {
+                "name": "Manhattan",
+                "link": "\/\/ksu.craigslist.org\/"
+            },
+            "nwks": {
+                "name": "Northwest KS",
+                "link": "\/\/nwks.craigslist.org\/"
+            },
+            "salina": {
+                "name": "Salina",
+                "link": "\/\/salina.craigslist.org\/"
+            },
+            "seks": {
+                "name": "Southeast KS",
+                "link": "\/\/seks.craigslist.org\/"
+            },
+            "swks": {
+                "name": "Southwest KS",
+                "link": "\/\/swks.craigslist.org\/"
+            },
+            "topeka": {
+                "name": "Topeka",
+                "link": "\/\/topeka.craigslist.org\/"
+            },
+            "wichita": {
+                "name": "Wichita",
+                "link": "\/\/wichita.craigslist.org\/"
+            }
+        },
+        "Kentucky": {
+            "bgky": {
+                "name": "Bowling Green",
+                "link": "\/\/bgky.craigslist.org\/"
+            },
+            "eastky": {
+                "name": "Eastern Kentucky",
+                "link": "\/\/eastky.craigslist.org\/"
+            },
+            "lexington": {
+                "name": "Lexington",
+                "link": "\/\/lexington.craigslist.org\/"
+            },
+            "louisville": {
+                "name": "Louisville",
+                "link": "\/\/louisville.craigslist.org\/"
+            },
+            "owensboro": {
+                "name": "Owensboro",
+                "link": "\/\/owensboro.craigslist.org\/"
+            },
+            "westky": {
+                "name": "Western KY",
+                "link": "\/\/westky.craigslist.org\/"
+            }
+        },
+        "Louisiana": {
+            "batonrouge": {
+                "name": "Baton Rouge",
+                "link": "\/\/batonrouge.craigslist.org\/"
+            },
+            "cenla": {
+                "name": "Central Louisiana",
+                "link": "\/\/cenla.craigslist.org\/"
+            },
+            "houma": {
+                "name": "Houma",
+                "link": "\/\/houma.craigslist.org\/"
+            },
+            "lafayette": {
+                "name": "Lafayette",
+                "link": "\/\/lafayette.craigslist.org\/"
+            },
+            "lakecharles": {
+                "name": "Lake Charles",
+                "link": "\/\/lakecharles.craigslist.org\/"
+            },
+            "monroe": {
+                "name": "Monroe",
+                "link": "\/\/monroe.craigslist.org\/"
+            },
+            "neworleans": {
+                "name": "New Orleans",
+                "link": "\/\/neworleans.craigslist.org\/"
+            },
+            "shreveport": {
+                "name": "Shreveport",
+                "link": "\/\/shreveport.craigslist.org\/"
+            }
+        },
+        "Maine": {
+            "maine": {
+                "name": "Maine",
+                "link": "\/\/maine.craigslist.org\/"
+            }
+        },
+        "Maryland": {
+            "annapolis": {
+                "name": "Annapolis",
+                "link": "\/\/annapolis.craigslist.org\/"
+            },
+            "baltimore": {
+                "name": "Baltimore",
+                "link": "\/\/baltimore.craigslist.org\/"
+            },
+            "easternshore": {
+                "name": "Eastern Shore",
+                "link": "\/\/easternshore.craigslist.org\/"
+            },
+            "frederick": {
+                "name": "Frederick",
+                "link": "\/\/frederick.craigslist.org\/"
+            },
+            "smd": {
+                "name": "Southern Maryland",
+                "link": "\/\/smd.craigslist.org\/"
+            },
+            "westmd": {
+                "name": "Western Maryland",
+                "link": "\/\/westmd.craigslist.org\/"
+            }
+        },
+        "Massachusetts": {
+            "boston": {
+                "name": "Boston",
+                "link": "\/\/boston.craigslist.org\/"
+            },
+            "capecod": {
+                "name": "Cape Cod \/ Islands",
+                "link": "\/\/capecod.craigslist.org\/"
+            },
+            "southcoast": {
+                "name": "South Coast",
+                "link": "\/\/southcoast.craigslist.org\/"
+            },
+            "westernmass": {
+                "name": "Western Massachusetts",
+                "link": "\/\/westernmass.craigslist.org\/"
+            },
+            "worcester": {
+                "name": "Worcester \/ Central MA",
+                "link": "\/\/worcester.craigslist.org\/"
+            }
+        },
+        "Michigan": {
+            "annarbor": {
+                "name": "Ann Arbor",
+                "link": "\/\/annarbor.craigslist.org\/"
+            },
+            "battlecreek": {
+                "name": "Battle Creek",
+                "link": "\/\/battlecreek.craigslist.org\/"
+            },
+            "centralmich": {
+                "name": "Central Michigan",
+                "link": "\/\/centralmich.craigslist.org\/"
+            },
+            "detroit": {
+                "name": "Detroit Metro",
+                "link": "\/\/detroit.craigslist.org\/"
+            },
+            "flint": {
+                "name": "Flint",
+                "link": "\/\/flint.craigslist.org\/"
+            },
+            "grandrapids": {
+                "name": "Grand Rapids",
+                "link": "\/\/grandrapids.craigslist.org\/"
+            },
+            "holland": {
+                "name": "Holland",
+                "link": "\/\/holland.craigslist.org\/"
+            },
+            "jxn": {
+                "name": "Jackson ",
+                "link": "\/\/jxn.craigslist.org\/"
+            },
+            "kalamazoo": {
+                "name": "Kalamazoo",
+                "link": "\/\/kalamazoo.craigslist.org\/"
+            },
+            "lansing": {
+                "name": "Lansing",
+                "link": "\/\/lansing.craigslist.org\/"
+            },
+            "monroemi": {
+                "name": "Monroe ",
+                "link": "\/\/monroemi.craigslist.org\/"
+            },
+            "muskegon": {
+                "name": "Muskegon",
+                "link": "\/\/muskegon.craigslist.org\/"
+            },
+            "nmi": {
+                "name": "Northern Michigan",
+                "link": "\/\/nmi.craigslist.org\/"
+            },
+            "porthuron": {
+                "name": "Port Huron",
+                "link": "\/\/porthuron.craigslist.org\/"
+            },
+            "saginaw": {
+                "name": "Saginaw-midland-baycity",
+                "link": "\/\/saginaw.craigslist.org\/"
+            },
+            "swmi": {
+                "name": "Southwest Michigan",
+                "link": "\/\/swmi.craigslist.org\/"
+            },
+            "thumb": {
+                "name": "The Thumb",
+                "link": "\/\/thumb.craigslist.org\/"
+            },
+            "up": {
+                "name": "Upper Peninsula",
+                "link": "\/\/up.craigslist.org\/"
+            }
+        },
+        "Minnesota": {
+            "bemidji": {
+                "name": "Bemidji",
+                "link": "\/\/bemidji.craigslist.org\/"
+            },
+            "brainerd": {
+                "name": "Brainerd",
+                "link": "\/\/brainerd.craigslist.org\/"
+            },
+            "duluth": {
+                "name": "Duluth \/ Superior",
+                "link": "\/\/duluth.craigslist.org\/"
+            },
+            "mankato": {
+                "name": "Mankato",
+                "link": "\/\/mankato.craigslist.org\/"
+            },
+            "minneapolis": {
+                "name": "Minneapolis \/ St Paul",
+                "link": "\/\/minneapolis.craigslist.org\/"
+            },
+            "rmn": {
+                "name": "Rochester ",
+                "link": "\/\/rmn.craigslist.org\/"
+            },
+            "marshall": {
+                "name": "Southwest MN",
+                "link": "\/\/marshall.craigslist.org\/"
+            },
+            "stcloud": {
+                "name": "St Cloud",
+                "link": "\/\/stcloud.craigslist.org\/"
+            }
+        },
+        "Mississippi": {
+            "gulfport": {
+                "name": "Gulfport \/ Biloxi",
+                "link": "\/\/gulfport.craigslist.org\/"
+            },
+            "hattiesburg": {
+                "name": "Hattiesburg",
+                "link": "\/\/hattiesburg.craigslist.org\/"
+            },
+            "jackson": {
+                "name": "Jackson",
+                "link": "\/\/jackson.craigslist.org\/"
+            },
+            "meridian": {
+                "name": "Meridian",
+                "link": "\/\/meridian.craigslist.org\/"
+            },
+            "northmiss": {
+                "name": "North Mississippi",
+                "link": "\/\/northmiss.craigslist.org\/"
+            },
+            "natchez": {
+                "name": "Southwest MS",
+                "link": "\/\/natchez.craigslist.org\/"
+            }
+        },
+        "Missouri": {
+            "columbiamo": {
+                "name": "Columbia \/ Jeff City",
+                "link": "\/\/columbiamo.craigslist.org\/"
+            },
+            "joplin": {
+                "name": "Joplin",
+                "link": "\/\/joplin.craigslist.org\/"
+            },
+            "kansascity": {
+                "name": "Kansas City",
+                "link": "\/\/kansascity.craigslist.org\/"
+            },
+            "kirksville": {
+                "name": "Kirksville",
+                "link": "\/\/kirksville.craigslist.org\/"
+            },
+            "loz": {
+                "name": "Lake Of The Ozarks",
+                "link": "\/\/loz.craigslist.org\/"
+            },
+            "semo": {
+                "name": "Southeast Missouri",
+                "link": "\/\/semo.craigslist.org\/"
+            },
+            "springfield": {
+                "name": "Springfield",
+                "link": "\/\/springfield.craigslist.org\/"
+            },
+            "stjoseph": {
+                "name": "St Joseph",
+                "link": "\/\/stjoseph.craigslist.org\/"
+            },
+            "stlouis": {
+                "name": "St Louis",
+                "link": "\/\/stlouis.craigslist.org\/"
+            }
+        },
+        "Montana": {
+            "billings": {
+                "name": "Billings",
+                "link": "\/\/billings.craigslist.org\/"
+            },
+            "bozeman": {
+                "name": "Bozeman",
+                "link": "\/\/bozeman.craigslist.org\/"
+            },
+            "butte": {
+                "name": "Butte",
+                "link": "\/\/butte.craigslist.org\/"
+            },
+            "greatfalls": {
+                "name": "Great Falls",
+                "link": "\/\/greatfalls.craigslist.org\/"
+            },
+            "helena": {
+                "name": "Helena",
+                "link": "\/\/helena.craigslist.org\/"
+            },
+            "kalispell": {
+                "name": "Kalispell",
+                "link": "\/\/kalispell.craigslist.org\/"
+            },
+            "missoula": {
+                "name": "Missoula",
+                "link": "\/\/missoula.craigslist.org\/"
+            },
+            "montana": {
+                "name": "Eastern Montana",
+                "link": "\/\/montana.craigslist.org\/"
+            }
+        },
+        "Nebraska": {
+            "grandisland": {
+                "name": "Grand Island",
+                "link": "\/\/grandisland.craigslist.org\/"
+            },
+            "lincoln": {
+                "name": "Lincoln",
+                "link": "\/\/lincoln.craigslist.org\/"
+            },
+            "northplatte": {
+                "name": "North Platte",
+                "link": "\/\/northplatte.craigslist.org\/"
+            },
+            "omaha": {
+                "name": "Omaha \/ Council Bluffs",
+                "link": "\/\/omaha.craigslist.org\/"
+            },
+            "scottsbluff": {
+                "name": "Scottsbluff \/ Panhandle",
+                "link": "\/\/scottsbluff.craigslist.org\/"
+            }
+        },
+        "Nevada": {
+            "elko": {
+                "name": "Elko",
+                "link": "\/\/elko.craigslist.org\/"
+            },
+            "lasvegas": {
+                "name": "Las Vegas",
+                "link": "\/\/lasvegas.craigslist.org\/"
+            },
+            "reno": {
+                "name": "Reno \/ Tahoe",
+                "link": "\/\/reno.craigslist.org\/"
+            }
+        },
+        "New Hampshire": {
+            "nh": {
+                "name": "New Hampshire",
+                "link": "\/\/nh.craigslist.org\/"
+            }
+        },
+        "New Jersey": {
+            "cnj": {
+                "name": "Central NJ",
+                "link": "\/\/cnj.craigslist.org\/"
+            },
+            "jerseyshore": {
+                "name": "Jersey Shore",
+                "link": "\/\/jerseyshore.craigslist.org\/"
+            },
+            "newjersey": {
+                "name": "North Jersey",
+                "link": "\/\/newjersey.craigslist.org\/"
+            },
+            "southjersey": {
+                "name": "South Jersey",
+                "link": "\/\/southjersey.craigslist.org\/"
+            }
+        },
+        "New Mexico": {
+            "albuquerque": {
+                "name": "Albuquerque",
+                "link": "\/\/albuquerque.craigslist.org\/"
+            },
+            "clovis": {
+                "name": "Clovis \/ Portales",
+                "link": "\/\/clovis.craigslist.org\/"
+            },
+            "farmington": {
+                "name": "Farmington",
+                "link": "\/\/farmington.craigslist.org\/"
+            },
+            "lascruces": {
+                "name": "Las Cruces",
+                "link": "\/\/lascruces.craigslist.org\/"
+            },
+            "roswell": {
+                "name": "Roswell \/ Carlsbad",
+                "link": "\/\/roswell.craigslist.org\/"
+            },
+            "santafe": {
+                "name": "Santa Fe \/ Taos",
+                "link": "\/\/santafe.craigslist.org\/"
+            }
+        },
+        "New York": {
+            "albany": {
+                "name": "Albany",
+                "link": "\/\/albany.craigslist.org\/"
+            },
+            "binghamton": {
+                "name": "Binghamton",
+                "link": "\/\/binghamton.craigslist.org\/"
+            },
+            "buffalo": {
+                "name": "Buffalo",
+                "link": "\/\/buffalo.craigslist.org\/"
+            },
+            "catskills": {
+                "name": "Catskills",
+                "link": "\/\/catskills.craigslist.org\/"
+            },
+            "chautauqua": {
+                "name": "Chautauqua",
+                "link": "\/\/chautauqua.craigslist.org\/"
+            },
+            "elmira": {
+                "name": "Elmira-corning",
+                "link": "\/\/elmira.craigslist.org\/"
+            },
+            "fingerlakes": {
+                "name": "Finger Lakes",
+                "link": "\/\/fingerlakes.craigslist.org\/"
+            },
+            "glensfalls": {
+                "name": "Glens Falls",
+                "link": "\/\/glensfalls.craigslist.org\/"
+            },
+            "hudsonvalley": {
+                "name": "Hudson Valley",
+                "link": "\/\/hudsonvalley.craigslist.org\/"
+            },
+            "ithaca": {
+                "name": "Ithaca",
+                "link": "\/\/ithaca.craigslist.org\/"
+            },
+            "longisland": {
+                "name": "Long Island",
+                "link": "\/\/longisland.craigslist.org\/"
+            },
+            "newyork": {
+                "name": "New York City",
+                "link": "\/\/newyork.craigslist.org\/"
+            },
+            "oneonta": {
+                "name": "Oneonta",
+                "link": "\/\/oneonta.craigslist.org\/"
+            },
+            "plattsburgh": {
+                "name": "Plattsburgh-adirondacks",
+                "link": "\/\/plattsburgh.craigslist.org\/"
+            },
+            "potsdam": {
+                "name": "Potsdam-canton-massena",
+                "link": "\/\/potsdam.craigslist.org\/"
+            },
+            "rochester": {
+                "name": "Rochester",
+                "link": "\/\/rochester.craigslist.org\/"
+            },
+            "syracuse": {
+                "name": "Syracuse",
+                "link": "\/\/syracuse.craigslist.org\/"
+            },
+            "twintiers": {
+                "name": "Twin Tiers NY\/PA",
+                "link": "\/\/twintiers.craigslist.org\/"
+            },
+            "utica": {
+                "name": "Utica-rome-oneida",
+                "link": "\/\/utica.craigslist.org\/"
+            },
+            "watertown": {
+                "name": "Watertown",
+                "link": "\/\/watertown.craigslist.org\/"
+            }
+        },
+        "North Carolina": {
+            "asheville": {
+                "name": "Asheville",
+                "link": "\/\/asheville.craigslist.org\/"
+            },
+            "boone": {
+                "name": "Boone",
+                "link": "\/\/boone.craigslist.org\/"
+            },
+            "charlotte": {
+                "name": "Charlotte",
+                "link": "\/\/charlotte.craigslist.org\/"
+            },
+            "eastnc": {
+                "name": "Eastern NC",
+                "link": "\/\/eastnc.craigslist.org\/"
+            },
+            "fayetteville": {
+                "name": "Fayetteville",
+                "link": "\/\/fayetteville.craigslist.org\/"
+            },
+            "greensboro": {
+                "name": "Greensboro",
+                "link": "\/\/greensboro.craigslist.org\/"
+            },
+            "hickory": {
+                "name": "Hickory \/ Lenoir",
+                "link": "\/\/hickory.craigslist.org\/"
+            },
+            "onslow": {
+                "name": "Jacksonville ",
+                "link": "\/\/onslow.craigslist.org\/"
+            },
+            "outerbanks": {
+                "name": "Outer Banks",
+                "link": "\/\/outerbanks.craigslist.org\/"
+            },
+            "raleigh": {
+                "name": "Raleigh \/ Durham \/ CH",
+                "link": "\/\/raleigh.craigslist.org\/"
+            },
+            "wilmington": {
+                "name": "Wilmington",
+                "link": "\/\/wilmington.craigslist.org\/"
+            },
+            "winstonsalem": {
+                "name": "Winston-salem",
+                "link": "\/\/winstonsalem.craigslist.org\/"
+            }
+        },
+        "North Dakota": {
+            "bismarck": {
+                "name": "Bismarck",
+                "link": "\/\/bismarck.craigslist.org\/"
+            },
+            "fargo": {
+                "name": "Fargo \/ Moorhead",
+                "link": "\/\/fargo.craigslist.org\/"
+            },
+            "grandforks": {
+                "name": "Grand Forks",
+                "link": "\/\/grandforks.craigslist.org\/"
+            },
+            "nd": {
+                "name": "North Dakota",
+                "link": "\/\/nd.craigslist.org\/"
+            }
+        },
+        "Ohio": {
+            "akroncanton": {
+                "name": "Akron \/ Canton",
+                "link": "\/\/akroncanton.craigslist.org\/"
+            },
+            "ashtabula": {
+                "name": "Ashtabula",
+                "link": "\/\/ashtabula.craigslist.org\/"
+            },
+            "athensohio": {
+                "name": "Athens ",
+                "link": "\/\/athensohio.craigslist.org\/"
+            },
+            "chillicothe": {
+                "name": "Chillicothe",
+                "link": "\/\/chillicothe.craigslist.org\/"
+            },
+            "cincinnati": {
+                "name": "Cincinnati",
+                "link": "\/\/cincinnati.craigslist.org\/"
+            },
+            "cleveland": {
+                "name": "Cleveland",
+                "link": "\/\/cleveland.craigslist.org\/"
+            },
+            "columbus": {
+                "name": "Columbus",
+                "link": "\/\/columbus.craigslist.org\/"
+            },
+            "dayton": {
+                "name": "Dayton \/ Springfield",
+                "link": "\/\/dayton.craigslist.org\/"
+            },
+            "limaohio": {
+                "name": "Lima \/ Findlay",
+                "link": "\/\/limaohio.craigslist.org\/"
+            },
+            "mansfield": {
+                "name": "Mansfield",
+                "link": "\/\/mansfield.craigslist.org\/"
+            },
+            "sandusky": {
+                "name": "Sandusky",
+                "link": "\/\/sandusky.craigslist.org\/"
+            },
+            "toledo": {
+                "name": "Toledo",
+                "link": "\/\/toledo.craigslist.org\/"
+            },
+            "tuscarawas": {
+                "name": "Tuscarawas Co",
+                "link": "\/\/tuscarawas.craigslist.org\/"
+            },
+            "youngstown": {
+                "name": "Youngstown",
+                "link": "\/\/youngstown.craigslist.org\/"
+            },
+            "zanesville": {
+                "name": "Zanesville \/ Cambridge",
+                "link": "\/\/zanesville.craigslist.org\/"
+            }
+        },
+        "Oklahoma": {
+            "lawton": {
+                "name": "Lawton",
+                "link": "\/\/lawton.craigslist.org\/"
+            },
+            "enid": {
+                "name": "Northwest OK",
+                "link": "\/\/enid.craigslist.org\/"
+            },
+            "oklahomacity": {
+                "name": "Oklahoma City",
+                "link": "\/\/oklahomacity.craigslist.org\/"
+            },
+            "stillwater": {
+                "name": "Stillwater",
+                "link": "\/\/stillwater.craigslist.org\/"
+            },
+            "tulsa": {
+                "name": "Tulsa",
+                "link": "\/\/tulsa.craigslist.org\/"
+            }
+        },
+        "Oregon": {
+            "bend": {
+                "name": "Bend",
+                "link": "\/\/bend.craigslist.org\/"
+            },
+            "corvallis": {
+                "name": "Corvallis\/albany",
+                "link": "\/\/corvallis.craigslist.org\/"
+            },
+            "eastoregon": {
+                "name": "East Oregon",
+                "link": "\/\/eastoregon.craigslist.org\/"
+            },
+            "eugene": {
+                "name": "Eugene",
+                "link": "\/\/eugene.craigslist.org\/"
+            },
+            "klamath": {
+                "name": "Klamath Falls",
+                "link": "\/\/klamath.craigslist.org\/"
+            },
+            "medford": {
+                "name": "Medford-ashland",
+                "link": "\/\/medford.craigslist.org\/"
+            },
+            "oregoncoast": {
+                "name": "Oregon Coast",
+                "link": "\/\/oregoncoast.craigslist.org\/"
+            },
+            "portland": {
+                "name": "Portland",
+                "link": "\/\/portland.craigslist.org\/"
+            },
+            "roseburg": {
+                "name": "Roseburg",
+                "link": "\/\/roseburg.craigslist.org\/"
+            },
+            "salem": {
+                "name": "Salem",
+                "link": "\/\/salem.craigslist.org\/"
+            }
+        },
+        "Pennsylvania": {
+            "altoona": {
+                "name": "Altoona-johnstown",
+                "link": "\/\/altoona.craigslist.org\/"
+            },
+            "chambersburg": {
+                "name": "Cumberland Valley",
+                "link": "\/\/chambersburg.craigslist.org\/"
+            },
+            "erie": {
+                "name": "Erie",
+                "link": "\/\/erie.craigslist.org\/"
+            },
+            "harrisburg": {
+                "name": "Harrisburg",
+                "link": "\/\/harrisburg.craigslist.org\/"
+            },
+            "lancaster": {
+                "name": "Lancaster",
+                "link": "\/\/lancaster.craigslist.org\/"
+            },
+            "allentown": {
+                "name": "Lehigh Valley",
+                "link": "\/\/allentown.craigslist.org\/"
+            },
+            "meadville": {
+                "name": "Meadville",
+                "link": "\/\/meadville.craigslist.org\/"
+            },
+            "philadelphia": {
+                "name": "Philadelphia",
+                "link": "\/\/philadelphia.craigslist.org\/"
+            },
+            "pittsburgh": {
+                "name": "Pittsburgh",
+                "link": "\/\/pittsburgh.craigslist.org\/"
+            },
+            "poconos": {
+                "name": "Poconos",
+                "link": "\/\/poconos.craigslist.org\/"
+            },
+            "reading": {
+                "name": "Reading",
+                "link": "\/\/reading.craigslist.org\/"
+            },
+            "scranton": {
+                "name": "Scranton \/ Wilkes-barre",
+                "link": "\/\/scranton.craigslist.org\/"
+            },
+            "pennstate": {
+                "name": "State College",
+                "link": "\/\/pennstate.craigslist.org\/"
+            },
+            "williamsport": {
+                "name": "Williamsport",
+                "link": "\/\/williamsport.craigslist.org\/"
+            },
+            "york": {
+                "name": "York",
+                "link": "\/\/york.craigslist.org\/"
+            }
+        },
+        "Rhode Island": {
+            "providence": {
+                "name": "Rhode Island",
+                "link": "\/\/providence.craigslist.org\/"
+            }
+        },
+        "South Carolina": {
+            "charleston": {
+                "name": "Charleston",
+                "link": "\/\/charleston.craigslist.org\/"
+            },
+            "columbia": {
+                "name": "Columbia",
+                "link": "\/\/columbia.craigslist.org\/"
+            },
+            "florencesc": {
+                "name": "Florence",
+                "link": "\/\/florencesc.craigslist.org\/"
+            },
+            "greenville": {
+                "name": "Greenville \/ Upstate",
+                "link": "\/\/greenville.craigslist.org\/"
+            },
+            "hiltonhead": {
+                "name": "Hilton Head",
+                "link": "\/\/hiltonhead.craigslist.org\/"
+            },
+            "myrtlebeach": {
+                "name": "Myrtle Beach",
+                "link": "\/\/myrtlebeach.craigslist.org\/"
+            }
+        },
+        "South Dakota": {
+            "nesd": {
+                "name": "Northeast SD",
+                "link": "\/\/nesd.craigslist.org\/"
+            },
+            "csd": {
+                "name": "Pierre \/ Central SD",
+                "link": "\/\/csd.craigslist.org\/"
+            },
+            "rapidcity": {
+                "name": "Rapid City \/ West SD",
+                "link": "\/\/rapidcity.craigslist.org\/"
+            },
+            "siouxfalls": {
+                "name": "Sioux Falls \/ SE SD",
+                "link": "\/\/siouxfalls.craigslist.org\/"
+            },
+            "sd": {
+                "name": "South Dakota",
+                "link": "\/\/sd.craigslist.org\/"
+            }
+        },
+        "Tennessee": {
+            "chattanooga": {
+                "name": "Chattanooga",
+                "link": "\/\/chattanooga.craigslist.org\/"
+            },
+            "clarksville": {
+                "name": "Clarksville",
+                "link": "\/\/clarksville.craigslist.org\/"
+            },
+            "cookeville": {
+                "name": "Cookeville",
+                "link": "\/\/cookeville.craigslist.org\/"
+            },
+            "jacksontn": {
+                "name": "Jackson  ",
+                "link": "\/\/jacksontn.craigslist.org\/"
+            },
+            "knoxville": {
+                "name": "Knoxville",
+                "link": "\/\/knoxville.craigslist.org\/"
+            },
+            "memphis": {
+                "name": "Memphis",
+                "link": "\/\/memphis.craigslist.org\/"
+            },
+            "nashville": {
+                "name": "Nashville",
+                "link": "\/\/nashville.craigslist.org\/"
+            },
+            "tricities": {
+                "name": "Tri-cities",
+                "link": "\/\/tricities.craigslist.org\/"
+            }
+        },
+        "Texas": {
+            "abilene": {
+                "name": "Abilene",
+                "link": "\/\/abilene.craigslist.org\/"
+            },
+            "amarillo": {
+                "name": "Amarillo",
+                "link": "\/\/amarillo.craigslist.org\/"
+            },
+            "austin": {
+                "name": "Austin",
+                "link": "\/\/austin.craigslist.org\/"
+            },
+            "beaumont": {
+                "name": "Beaumont \/ Port Arthur",
+                "link": "\/\/beaumont.craigslist.org\/"
+            },
+            "brownsville": {
+                "name": "Brownsville",
+                "link": "\/\/brownsville.craigslist.org\/"
+            },
+            "collegestation": {
+                "name": "College Station",
+                "link": "\/\/collegestation.craigslist.org\/"
+            },
+            "corpuschristi": {
+                "name": "Corpus Christi",
+                "link": "\/\/corpuschristi.craigslist.org\/"
+            },
+            "dallas": {
+                "name": "Dallas \/ Fort Worth",
+                "link": "\/\/dallas.craigslist.org\/"
+            },
+            "nacogdoches": {
+                "name": "Deep East Texas",
+                "link": "\/\/nacogdoches.craigslist.org\/"
+            },
+            "delrio": {
+                "name": "Del Rio \/ Eagle Pass",
+                "link": "\/\/delrio.craigslist.org\/"
+            },
+            "elpaso": {
+                "name": "El Paso",
+                "link": "\/\/elpaso.craigslist.org\/"
+            },
+            "galveston": {
+                "name": "Galveston",
+                "link": "\/\/galveston.craigslist.org\/"
+            },
+            "houston": {
+                "name": "Houston",
+                "link": "\/\/houston.craigslist.org\/"
+            },
+            "killeen": {
+                "name": "Killeen \/ Temple \/ Ft Hood",
+                "link": "\/\/killeen.craigslist.org\/"
+            },
+            "laredo": {
+                "name": "Laredo",
+                "link": "\/\/laredo.craigslist.org\/"
+            },
+            "lubbock": {
+                "name": "Lubbock",
+                "link": "\/\/lubbock.craigslist.org\/"
+            },
+            "mcallen": {
+                "name": "Mcallen \/ Edinburg",
+                "link": "\/\/mcallen.craigslist.org\/"
+            },
+            "odessa": {
+                "name": "Odessa \/ Midland",
+                "link": "\/\/odessa.craigslist.org\/"
+            },
+            "sanangelo": {
+                "name": "San Angelo",
+                "link": "\/\/sanangelo.craigslist.org\/"
+            },
+            "sanantonio": {
+                "name": "San Antonio",
+                "link": "\/\/sanantonio.craigslist.org\/"
+            },
+            "sanmarcos": {
+                "name": "San Marcos",
+                "link": "\/\/sanmarcos.craigslist.org\/"
+            },
+            "bigbend": {
+                "name": "Southwest TX",
+                "link": "\/\/bigbend.craigslist.org\/"
+            },
+            "texoma": {
+                "name": "Texoma",
+                "link": "\/\/texoma.craigslist.org\/"
+            },
+            "easttexas": {
+                "name": "Tyler \/ East TX",
+                "link": "\/\/easttexas.craigslist.org\/"
+            },
+            "victoriatx": {
+                "name": "Victoria ",
+                "link": "\/\/victoriatx.craigslist.org\/"
+            },
+            "waco": {
+                "name": "Waco",
+                "link": "\/\/waco.craigslist.org\/"
+            },
+            "wichitafalls": {
+                "name": "Wichita Falls",
+                "link": "\/\/wichitafalls.craigslist.org\/"
+            }
+        },
+        "Utah": {
+            "logan": {
+                "name": "Logan",
+                "link": "\/\/logan.craigslist.org\/"
+            },
+            "ogden": {
+                "name": "Ogden-clearfield",
+                "link": "\/\/ogden.craigslist.org\/"
+            },
+            "provo": {
+                "name": "Provo \/ Orem",
+                "link": "\/\/provo.craigslist.org\/"
+            },
+            "saltlakecity": {
+                "name": "Salt Lake City",
+                "link": "\/\/saltlakecity.craigslist.org\/"
+            },
+            "stgeorge": {
+                "name": "St George",
+                "link": "\/\/stgeorge.craigslist.org\/"
+            }
+        },
+        "Vermont": {
+            "vermont": {
+                "name": "Vermont",
+                "link": "\/\/vermont.craigslist.org\/"
+            }
+        },
+        "Virginia": {
+            "charlottesville": {
+                "name": "Charlottesville",
+                "link": "\/\/charlottesville.craigslist.org\/"
+            },
+            "danville": {
+                "name": "Danville",
+                "link": "\/\/danville.craigslist.org\/"
+            },
+            "fredericksburg": {
+                "name": "Fredericksburg",
+                "link": "\/\/fredericksburg.craigslist.org\/"
+            },
+            "norfolk": {
+                "name": "Hampton Roads",
+                "link": "\/\/norfolk.craigslist.org\/"
+            },
+            "harrisonburg": {
+                "name": "Harrisonburg",
+                "link": "\/\/harrisonburg.craigslist.org\/"
+            },
+            "lynchburg": {
+                "name": "Lynchburg",
+                "link": "\/\/lynchburg.craigslist.org\/"
+            },
+            "blacksburg": {
+                "name": "New River Valley",
+                "link": "\/\/blacksburg.craigslist.org\/"
+            },
+            "richmond": {
+                "name": "Richmond",
+                "link": "\/\/richmond.craigslist.org\/"
+            },
+            "roanoke": {
+                "name": "Roanoke",
+                "link": "\/\/roanoke.craigslist.org\/"
+            },
+            "swva": {
+                "name": "Southwest VA",
+                "link": "\/\/swva.craigslist.org\/"
+            },
+            "winchester": {
+                "name": "Winchester",
+                "link": "\/\/winchester.craigslist.org\/"
+            }
+        },
+        "Washington": {
+            "bellingham": {
+                "name": "Bellingham",
+                "link": "\/\/bellingham.craigslist.org\/"
+            },
+            "kpr": {
+                "name": "Kennewick-pasco-richland",
+                "link": "\/\/kpr.craigslist.org\/"
+            },
+            "moseslake": {
+                "name": "Moses Lake",
+                "link": "\/\/moseslake.craigslist.org\/"
+            },
+            "olympic": {
+                "name": "Olympic Peninsula",
+                "link": "\/\/olympic.craigslist.org\/"
+            },
+            "pullman": {
+                "name": "Pullman \/ Moscow",
+                "link": "\/\/pullman.craigslist.org\/"
+            },
+            "seattle": {
+                "name": "Seattle-tacoma",
+                "link": "\/\/seattle.craigslist.org\/"
+            },
+            "skagit": {
+                "name": "Skagit \/ Island \/ SJI",
+                "link": "\/\/skagit.craigslist.org\/"
+            },
+            "spokane": {
+                "name": "Spokane \/ Coeur D'alene",
+                "link": "\/\/spokane.craigslist.org\/"
+            },
+            "wenatchee": {
+                "name": "Wenatchee",
+                "link": "\/\/wenatchee.craigslist.org\/"
+            },
+            "yakima": {
+                "name": "Yakima",
+                "link": "\/\/yakima.craigslist.org\/"
+            }
+        },
+        "West Virginia": {
+            "charlestonwv": {
+                "name": "Charleston ",
+                "link": "\/\/charlestonwv.craigslist.org\/"
+            },
+            "martinsburg": {
+                "name": "Eastern Panhandle",
+                "link": "\/\/martinsburg.craigslist.org\/"
+            },
+            "huntington": {
+                "name": "Huntington-ashland",
+                "link": "\/\/huntington.craigslist.org\/"
+            },
+            "morgantown": {
+                "name": "Morgantown",
+                "link": "\/\/morgantown.craigslist.org\/"
+            },
+            "wheeling": {
+                "name": "Northern Panhandle",
+                "link": "\/\/wheeling.craigslist.org\/"
+            },
+            "parkersburg": {
+                "name": "Parkersburg-marietta",
+                "link": "\/\/parkersburg.craigslist.org\/"
+            },
+            "swv": {
+                "name": "Southern WV",
+                "link": "\/\/swv.craigslist.org\/"
+            },
+            "wv": {
+                "name": "West Virginia (old)",
+                "link": "\/\/wv.craigslist.org\/"
+            }
+        },
+        "Wisconsin": {
+            "appleton": {
+                "name": "Appleton-oshkosh-FDL",
+                "link": "\/\/appleton.craigslist.org\/"
+            },
+            "eauclaire": {
+                "name": "Eau Claire",
+                "link": "\/\/eauclaire.craigslist.org\/"
+            },
+            "greenbay": {
+                "name": "Green Bay",
+                "link": "\/\/greenbay.craigslist.org\/"
+            },
+            "janesville": {
+                "name": "Janesville",
+                "link": "\/\/janesville.craigslist.org\/"
+            },
+            "racine": {
+                "name": "Kenosha-racine",
+                "link": "\/\/racine.craigslist.org\/"
+            },
+            "lacrosse": {
+                "name": "La Crosse",
+                "link": "\/\/lacrosse.craigslist.org\/"
+            },
+            "madison": {
+                "name": "Madison",
+                "link": "\/\/madison.craigslist.org\/"
+            },
+            "milwaukee": {
+                "name": "Milwaukee",
+                "link": "\/\/milwaukee.craigslist.org\/"
+            },
+            "northernwi": {
+                "name": "Northern WI",
+                "link": "\/\/northernwi.craigslist.org\/"
+            },
+            "sheboygan": {
+                "name": "Sheboygan",
+                "link": "\/\/sheboygan.craigslist.org\/"
+            },
+            "wausau": {
+                "name": "Wausau",
+                "link": "\/\/wausau.craigslist.org\/"
+            }
+        },
+        "Wyoming": {
+            "wyoming": {
+                "name": "Wyoming",
+                "link": "\/\/wyoming.craigslist.org\/"
+            }
+        },
+        "Territories": {
+            "micronesia": {
+                "name": "Guam-micronesia",
+                "link": "\/\/micronesia.craigslist.org\/"
+            },
+            "puertorico": {
+                "name": "Puerto Rico",
+                "link": "\/\/puertorico.craigslist.org\/"
+            },
+            "virgin": {
+                "name": "U.S. Virgin Islands",
+                "link": "\/\/virgin.craigslist.org\/"
+            }
+        }
+    },
+    "Canada": {
+        "Alberta": {
+            "calgary": {
+                "name": "Calgary",
+                "link": "\/\/calgary.craigslist.ca\/"
+            },
+            "edmonton": {
+                "name": "Edmonton",
+                "link": "\/\/edmonton.craigslist.ca\/"
+            },
+            "ftmcmurray": {
+                "name": "Ft Mcmurray",
+                "link": "\/\/ftmcmurray.craigslist.ca\/"
+            },
+            "lethbridge": {
+                "name": "Lethbridge",
+                "link": "\/\/lethbridge.craigslist.ca\/"
+            },
+            "hat": {
+                "name": "Medicine Hat",
+                "link": "\/\/hat.craigslist.ca\/"
+            },
+            "peace": {
+                "name": "Peace River Country",
+                "link": "\/\/peace.craigslist.ca\/"
+            },
+            "reddeer": {
+                "name": "Red Deer",
+                "link": "\/\/reddeer.craigslist.ca\/"
+            }
+        },
+        "British Columbia": {
+            "cariboo": {
+                "name": "Cariboo",
+                "link": "\/\/cariboo.craigslist.ca\/"
+            },
+            "comoxvalley": {
+                "name": "Comox Valley",
+                "link": "\/\/comoxvalley.craigslist.ca\/"
+            },
+            "abbotsford": {
+                "name": "Fraser Valley",
+                "link": "\/\/abbotsford.craigslist.ca\/"
+            },
+            "kamloops": {
+                "name": "Kamloops",
+                "link": "\/\/kamloops.craigslist.ca\/"
+            },
+            "kelowna": {
+                "name": "Kelowna \/ Okanagan",
+                "link": "\/\/kelowna.craigslist.ca\/"
+            },
+            "kootenays": {
+                "name": "Kootenays",
+                "link": "\/\/kootenays.craigslist.ca\/"
+            },
+            "nanaimo": {
+                "name": "Nanaimo",
+                "link": "\/\/nanaimo.craigslist.ca\/"
+            },
+            "princegeorge": {
+                "name": "Prince George",
+                "link": "\/\/princegeorge.craigslist.ca\/"
+            },
+            "skeena": {
+                "name": "Skeena-bulkley",
+                "link": "\/\/skeena.craigslist.ca\/"
+            },
+            "sunshine": {
+                "name": "Sunshine Coast",
+                "link": "\/\/sunshine.craigslist.ca\/"
+            },
+            "vancouver": {
+                "name": "Vancouver",
+                "link": "\/\/vancouver.craigslist.ca\/"
+            },
+            "victoria": {
+                "name": "Victoria",
+                "link": "\/\/victoria.craigslist.ca\/"
+            },
+            "whistler": {
+                "name": "Whistler",
+                "link": "\/\/whistler.craigslist.ca\/"
+            }
+        },
+        "Manitoba": {
+            "winnipeg": {
+                "name": "Winnipeg",
+                "link": "\/\/winnipeg.craigslist.ca\/"
+            }
+        },
+        "New Brunswick": {
+            "newbrunswick": {
+                "name": "New Brunswick",
+                "link": "\/\/newbrunswick.craigslist.ca\/"
+            }
+        },
+        "Newfoundland and Labrador": {
+            "newfoundland": {
+                "name": "St John's",
+                "link": "\/\/newfoundland.craigslist.ca\/"
+            }
+        },
+        "Northwest Territories": {
+            "territories": {
+                "name": "Territories",
+                "link": "\/\/territories.craigslist.ca\/"
+            },
+            "yellowknife": {
+                "name": "Yellowknife",
+                "link": "\/\/yellowknife.craigslist.ca\/"
+            }
+        },
+        "Nova Scotia": {
+            "halifax": {
+                "name": "Halifax",
+                "link": "\/\/halifax.craigslist.ca\/"
+            }
+        },
+        "Ontario": {
+            "barrie": {
+                "name": "Barrie",
+                "link": "\/\/barrie.craigslist.ca\/"
+            },
+            "belleville": {
+                "name": "Belleville",
+                "link": "\/\/belleville.craigslist.ca\/"
+            },
+            "brantford": {
+                "name": "Brantford-woodstock",
+                "link": "\/\/brantford.craigslist.ca\/"
+            },
+            "chatham": {
+                "name": "Chatham-kent",
+                "link": "\/\/chatham.craigslist.ca\/"
+            },
+            "cornwall": {
+                "name": "Cornwall",
+                "link": "\/\/cornwall.craigslist.ca\/"
+            },
+            "guelph": {
+                "name": "Guelph",
+                "link": "\/\/guelph.craigslist.ca\/"
+            },
+            "hamilton": {
+                "name": "Hamilton-burlington",
+                "link": "\/\/hamilton.craigslist.ca\/"
+            },
+            "kingston": {
+                "name": "Kingston",
+                "link": "\/\/kingston.craigslist.ca\/"
+            },
+            "kitchener": {
+                "name": "Kitchener-waterloo-cambridge",
+                "link": "\/\/kitchener.craigslist.ca\/"
+            },
+            "londonon": {
+                "name": "London ",
+                "link": "\/\/londonon.craigslist.ca\/"
+            },
+            "niagara": {
+                "name": "Niagara Region",
+                "link": "\/\/niagara.craigslist.ca\/"
+            },
+            "ottawa": {
+                "name": "Ottawa-hull-gatineau",
+                "link": "\/\/ottawa.craigslist.ca\/"
+            },
+            "owensound": {
+                "name": "Owen Sound",
+                "link": "\/\/owensound.craigslist.ca\/"
+            },
+            "peterborough": {
+                "name": "Peterborough",
+                "link": "\/\/peterborough.craigslist.ca\/"
+            },
+            "sarnia": {
+                "name": "Sarnia",
+                "link": "\/\/sarnia.craigslist.ca\/"
+            },
+            "soo": {
+                "name": "Sault Ste Marie",
+                "link": "\/\/soo.craigslist.ca\/"
+            },
+            "sudbury": {
+                "name": "Sudbury",
+                "link": "\/\/sudbury.craigslist.ca\/"
+            },
+            "thunderbay": {
+                "name": "Thunder Bay",
+                "link": "\/\/thunderbay.craigslist.ca\/"
+            },
+            "toronto": {
+                "name": "Toronto",
+                "link": "\/\/toronto.craigslist.ca\/"
+            },
+            "windsor": {
+                "name": "Windsor",
+                "link": "\/\/windsor.craigslist.ca\/"
+            }
+        },
+        "Prince Edward Island": {
+            "pei": {
+                "name": "Prince Edward Island",
+                "link": "\/\/pei.craigslist.ca\/"
+            }
+        },
+        "Quebec": {
+            "montreal": {
+                "name": "Montreal",
+                "link": "\/\/montreal.craigslist.ca\/"
+            },
+            "quebec": {
+                "name": "Quebec City",
+                "link": "\/\/quebec.craigslist.ca\/"
+            },
+            "saguenay": {
+                "name": "Saguenay",
+                "link": "\/\/saguenay.craigslist.ca\/"
+            },
+            "sherbrooke": {
+                "name": "Sherbrooke",
+                "link": "\/\/sherbrooke.craigslist.ca\/"
+            },
+            "troisrivieres": {
+                "name": "Trois-rivieres",
+                "link": "\/\/troisrivieres.craigslist.ca\/"
+            }
+        },
+        "Saskatchewan": {
+            "regina": {
+                "name": "Regina",
+                "link": "\/\/regina.craigslist.ca\/"
+            },
+            "saskatoon": {
+                "name": "Saskatoon",
+                "link": "\/\/saskatoon.craigslist.ca\/"
+            }
+        },
+        "Yukon Territory": {
+            "whitehorse": {
+                "name": "Whitehorse",
+                "link": "\/\/whitehorse.craigslist.ca\/"
+            }
+        }
+    },
+    "Europe": {
+        "Austria": {
+            "vienna": {
+                "name": "Vienna",
+                "link": "\/\/vienna.craigslist.at\/"
+            }
+        },
+        "Belgium": {
+            "brussels": {
+                "name": "Belgium",
+                "link": "\/\/brussels.craigslist.org\/"
+            }
+        },
+        "Bulgaria": {
+            "bulgaria": {
+                "name": "Bulgaria",
+                "link": "\/\/bulgaria.craigslist.org\/"
+            }
+        },
+        "Croatia": {
+            "zagreb": {
+                "name": "Croatia",
+                "link": "\/\/zagreb.craigslist.org\/"
+            }
+        },
+        "Czech Republic": {
+            "prague": {
+                "name": "Prague",
+                "link": "\/\/prague.craigslist.cz\/"
+            }
+        },
+        "Denmark": {
+            "copenhagen": {
+                "name": "Copenhagen",
+                "link": "\/\/copenhagen.craigslist.org\/"
+            }
+        },
+        "Finland": {
+            "helsinki": {
+                "name": "Finland",
+                "link": "\/\/helsinki.craigslist.fi\/"
+            }
+        },
+        "France": {
+            "bordeaux": {
+                "name": "Bordeaux",
+                "link": "\/\/bordeaux.craigslist.org\/"
+            },
+            "rennes": {
+                "name": "Brittany",
+                "link": "\/\/rennes.craigslist.org\/"
+            },
+            "grenoble": {
+                "name": "Grenoble",
+                "link": "\/\/grenoble.craigslist.org\/"
+            },
+            "lille": {
+                "name": "Lille",
+                "link": "\/\/lille.craigslist.org\/"
+            },
+            "loire": {
+                "name": "Loire Valley",
+                "link": "\/\/loire.craigslist.org\/"
+            },
+            "lyon": {
+                "name": "Lyon",
+                "link": "\/\/lyon.craigslist.org\/"
+            },
+            "marseilles": {
+                "name": "Marseille",
+                "link": "\/\/marseilles.craigslist.org\/"
+            },
+            "montpellier": {
+                "name": "Montpellier",
+                "link": "\/\/montpellier.craigslist.org\/"
+            },
+            "cotedazur": {
+                "name": "Nice \/ Cote D'azur",
+                "link": "\/\/cotedazur.craigslist.org\/"
+            },
+            "rouen": {
+                "name": "Normandy",
+                "link": "\/\/rouen.craigslist.org\/"
+            },
+            "paris": {
+                "name": "Paris",
+                "link": "\/\/paris.craigslist.org\/"
+            },
+            "strasbourg": {
+                "name": "Strasbourg",
+                "link": "\/\/strasbourg.craigslist.org\/"
+            },
+            "toulouse": {
+                "name": "Toulouse",
+                "link": "\/\/toulouse.craigslist.org\/"
+            }
+        },
+        "Germany": {
+            "berlin": {
+                "name": "Berlin",
+                "link": "\/\/berlin.craigslist.de\/"
+            },
+            "bremen": {
+                "name": "Bremen",
+                "link": "\/\/bremen.craigslist.de\/"
+            },
+            "cologne": {
+                "name": "Cologne",
+                "link": "\/\/cologne.craigslist.de\/"
+            },
+            "dresden": {
+                "name": "Dresden",
+                "link": "\/\/dresden.craigslist.de\/"
+            },
+            "dusseldorf": {
+                "name": "Dusseldorf",
+                "link": "\/\/dusseldorf.craigslist.de\/"
+            },
+            "essen": {
+                "name": "Essen \/ Ruhr",
+                "link": "\/\/essen.craigslist.de\/"
+            },
+            "frankfurt": {
+                "name": "Frankfurt",
+                "link": "\/\/frankfurt.craigslist.de\/"
+            },
+            "hamburg": {
+                "name": "Hamburg",
+                "link": "\/\/hamburg.craigslist.de\/"
+            },
+            "hannover": {
+                "name": "Hannover",
+                "link": "\/\/hannover.craigslist.de\/"
+            },
+            "heidelberg": {
+                "name": "Heidelberg",
+                "link": "\/\/heidelberg.craigslist.de\/"
+            },
+            "kaiserslautern": {
+                "name": "Kaiserslautern",
+                "link": "\/\/kaiserslautern.craigslist.de\/"
+            },
+            "leipzig": {
+                "name": "Leipzig",
+                "link": "\/\/leipzig.craigslist.de\/"
+            },
+            "munich": {
+                "name": "Munich",
+                "link": "\/\/munich.craigslist.de\/"
+            },
+            "nuremberg": {
+                "name": "Nuremberg",
+                "link": "\/\/nuremberg.craigslist.de\/"
+            },
+            "stuttgart": {
+                "name": "Stuttgart",
+                "link": "\/\/stuttgart.craigslist.de\/"
+            }
+        },
+        "Greece": {
+            "athens": {
+                "name": "Greece",
+                "link": "\/\/athens.craigslist.gr\/"
+            }
+        },
+        "Hungary": {
+            "budapest": {
+                "name": "Budapest",
+                "link": "\/\/budapest.craigslist.org\/"
+            }
+        },
+        "Iceland": {
+            "reykjavik": {
+                "name": "Reykjavik",
+                "link": "\/\/reykjavik.craigslist.org\/"
+            }
+        },
+        "Ireland": {
+            "dublin": {
+                "name": "Dublin",
+                "link": "\/\/dublin.craigslist.org\/"
+            }
+        },
+        "Italy": {
+            "bologna": {
+                "name": "Bologna",
+                "link": "\/\/bologna.craigslist.it\/"
+            },
+            "florence": {
+                "name": "Florence \/ Tuscany",
+                "link": "\/\/florence.craigslist.it\/"
+            },
+            "genoa": {
+                "name": "Genoa",
+                "link": "\/\/genoa.craigslist.it\/"
+            },
+            "milan": {
+                "name": "Milan",
+                "link": "\/\/milan.craigslist.it\/"
+            },
+            "naples": {
+                "name": "Napoli \/ Campania",
+                "link": "\/\/naples.craigslist.it\/"
+            },
+            "perugia": {
+                "name": "Perugia",
+                "link": "\/\/perugia.craigslist.it\/"
+            },
+            "rome": {
+                "name": "Rome",
+                "link": "\/\/rome.craigslist.it\/"
+            },
+            "sardinia": {
+                "name": "Sardinia",
+                "link": "\/\/sardinia.craigslist.it\/"
+            },
+            "sicily": {
+                "name": "Sicilia",
+                "link": "\/\/sicily.craigslist.it\/"
+            },
+            "torino": {
+                "name": "Torino",
+                "link": "\/\/torino.craigslist.it\/"
+            },
+            "venice": {
+                "name": "Venice \/ Veneto",
+                "link": "\/\/venice.craigslist.it\/"
+            }
+        },
+        "Luxembourg": {
+            "luxembourg": {
+                "name": "Luxembourg",
+                "link": "\/\/luxembourg.craigslist.org\/"
+            }
+        },
+        "Netherlands": {
+            "amsterdam": {
+                "name": "Amsterdam \/ Randstad",
+                "link": "\/\/amsterdam.craigslist.org\/"
+            }
+        },
+        "Norway": {
+            "oslo": {
+                "name": "Norway",
+                "link": "\/\/oslo.craigslist.org\/"
+            }
+        },
+        "Poland": {
+            "warsaw": {
+                "name": "Poland",
+                "link": "\/\/warsaw.craigslist.pl\/"
+            }
+        },
+        "Portugal": {
+            "faro": {
+                "name": "Faro \/ Algarve",
+                "link": "\/\/faro.craigslist.pt\/"
+            },
+            "lisbon": {
+                "name": "Lisbon",
+                "link": "\/\/lisbon.craigslist.pt\/"
+            },
+            "porto": {
+                "name": "Porto",
+                "link": "\/\/porto.craigslist.pt\/"
+            }
+        },
+        "Romania": {
+            "bucharest": {
+                "name": "Romania",
+                "link": "\/\/bucharest.craigslist.org\/"
+            }
+        },
+        "Russian Federation": {
+            "moscow": {
+                "name": "Moscow",
+                "link": "\/\/moscow.craigslist.org\/"
+            },
+            "stpetersburg": {
+                "name": "St Petersburg",
+                "link": "\/\/stpetersburg.craigslist.org\/"
+            }
+        },
+        "Spain": {
+            "alicante": {
+                "name": "Alicante",
+                "link": "\/\/alicante.craigslist.es\/"
+            },
+            "baleares": {
+                "name": "Baleares",
+                "link": "\/\/baleares.craigslist.es\/"
+            },
+            "barcelona": {
+                "name": "Barcelona",
+                "link": "\/\/barcelona.craigslist.es\/"
+            },
+            "bilbao": {
+                "name": "Bilbao",
+                "link": "\/\/bilbao.craigslist.es\/"
+            },
+            "cadiz": {
+                "name": "Cadiz",
+                "link": "\/\/cadiz.craigslist.es\/"
+            },
+            "canarias": {
+                "name": "Canarias",
+                "link": "\/\/canarias.craigslist.es\/"
+            },
+            "granada": {
+                "name": "Granada",
+                "link": "\/\/granada.craigslist.es\/"
+            },
+            "madrid": {
+                "name": "Madrid",
+                "link": "\/\/madrid.craigslist.es\/"
+            },
+            "malaga": {
+                "name": "Malaga",
+                "link": "\/\/malaga.craigslist.es\/"
+            },
+            "sevilla": {
+                "name": "Sevilla",
+                "link": "\/\/sevilla.craigslist.es\/"
+            },
+            "valencia": {
+                "name": "Valencia",
+                "link": "\/\/valencia.craigslist.es\/"
+            }
+        },
+        "Sweden": {
+            "stockholm": {
+                "name": "Sweden",
+                "link": "\/\/stockholm.craigslist.se\/"
+            }
+        },
+        "Switzerland": {
+            "basel": {
+                "name": "Basel",
+                "link": "\/\/basel.craigslist.ch\/"
+            },
+            "bern": {
+                "name": "Bern",
+                "link": "\/\/bern.craigslist.ch\/"
+            },
+            "geneva": {
+                "name": "Geneva",
+                "link": "\/\/geneva.craigslist.ch\/"
+            },
+            "lausanne": {
+                "name": "Lausanne",
+                "link": "\/\/lausanne.craigslist.ch\/"
+            },
+            "zurich": {
+                "name": "Zurich",
+                "link": "\/\/zurich.craigslist.ch\/"
+            }
+        },
+        "Turkey": {
+            "istanbul": {
+                "name": "Turkey",
+                "link": "\/\/istanbul.craigslist.com.tr\/"
+            }
+        },
+        "Ukraine": {
+            "ukraine": {
+                "name": "Ukraine",
+                "link": "\/\/ukraine.craigslist.org\/"
+            }
+        },
+        "United Kingdom": {
+            "aberdeen": {
+                "name": "Aberdeen",
+                "link": "\/\/aberdeen.craigslist.co.uk\/"
+            },
+            "bath": {
+                "name": "Bath",
+                "link": "\/\/bath.craigslist.co.uk\/"
+            },
+            "belfast": {
+                "name": "Belfast",
+                "link": "\/\/belfast.craigslist.co.uk\/"
+            },
+            "birmingham": {
+                "name": "Birmingham \/ West Mids",
+                "link": "\/\/birmingham.craigslist.co.uk\/"
+            },
+            "brighton": {
+                "name": "Brighton",
+                "link": "\/\/brighton.craigslist.co.uk\/"
+            },
+            "bristol": {
+                "name": "Bristol",
+                "link": "\/\/bristol.craigslist.co.uk\/"
+            },
+            "cambridge": {
+                "name": "Cambridge, UK",
+                "link": "\/\/cambridge.craigslist.co.uk\/"
+            },
+            "cardiff": {
+                "name": "Cardiff \/ Wales",
+                "link": "\/\/cardiff.craigslist.co.uk\/"
+            },
+            "coventry": {
+                "name": "Coventry",
+                "link": "\/\/coventry.craigslist.co.uk\/"
+            },
+            "derby": {
+                "name": "Derby",
+                "link": "\/\/derby.craigslist.co.uk\/"
+            },
+            "devon": {
+                "name": "Devon & Cornwall",
+                "link": "\/\/devon.craigslist.co.uk\/"
+            },
+            "dundee": {
+                "name": "Dundee",
+                "link": "\/\/dundee.craigslist.co.uk\/"
+            },
+            "norwich": {
+                "name": "East Anglia",
+                "link": "\/\/norwich.craigslist.co.uk\/"
+            },
+            "eastmids": {
+                "name": "East Midlands",
+                "link": "\/\/eastmids.craigslist.co.uk\/"
+            },
+            "edinburgh": {
+                "name": "Edinburgh",
+                "link": "\/\/edinburgh.craigslist.co.uk\/"
+            },
+            "essex": {
+                "name": "Essex",
+                "link": "\/\/essex.craigslist.co.uk\/"
+            },
+            "glasgow": {
+                "name": "Glasgow",
+                "link": "\/\/glasgow.craigslist.co.uk\/"
+            },
+            "hampshire": {
+                "name": "Hampshire",
+                "link": "\/\/hampshire.craigslist.co.uk\/"
+            },
+            "kent": {
+                "name": "Kent",
+                "link": "\/\/kent.craigslist.co.uk\/"
+            },
+            "leeds": {
+                "name": "Leeds",
+                "link": "\/\/leeds.craigslist.co.uk\/"
+            },
+            "liverpool": {
+                "name": "Liverpool",
+                "link": "\/\/liverpool.craigslist.co.uk\/"
+            },
+            "london": {
+                "name": "London",
+                "link": "\/\/london.craigslist.co.uk\/"
+            },
+            "manchester": {
+                "name": "Manchester",
+                "link": "\/\/manchester.craigslist.co.uk\/"
+            },
+            "newcastle": {
+                "name": "Newcastle \/ NE England",
+                "link": "\/\/newcastle.craigslist.co.uk\/"
+            },
+            "nottingham": {
+                "name": "Nottingham",
+                "link": "\/\/nottingham.craigslist.co.uk\/"
+            },
+            "oxford": {
+                "name": "Oxford",
+                "link": "\/\/oxford.craigslist.co.uk\/"
+            },
+            "sheffield": {
+                "name": "Sheffield",
+                "link": "\/\/sheffield.craigslist.co.uk\/"
+            }
+        }
+    },
+    "Asia, Pacific and Middle East": {
+        "Bangladesh": {
+            "bangladesh": {
+                "name": "Bangladesh",
+                "link": "\/\/bangladesh.craigslist.org\/"
+            }
+        },
+        "China": {
+            "beijing": {
+                "name": "Beijing",
+                "link": "\/\/beijing.craigslist.com.cn\/"
+            },
+            "chengdu": {
+                "name": "Chengdu",
+                "link": "\/\/chengdu.craigslist.com.cn\/"
+            },
+            "chongqing": {
+                "name": "Chongqing",
+                "link": "\/\/chongqing.craigslist.com.cn\/"
+            },
+            "dalian": {
+                "name": "Dalian",
+                "link": "\/\/dalian.craigslist.com.cn\/"
+            },
+            "guangzhou": {
+                "name": "Guangzhou",
+                "link": "\/\/guangzhou.craigslist.com.cn\/"
+            },
+            "hangzhou": {
+                "name": "Hangzhou",
+                "link": "\/\/hangzhou.craigslist.com.cn\/"
+            },
+            "nanjing": {
+                "name": "Nanjing",
+                "link": "\/\/nanjing.craigslist.com.cn\/"
+            },
+            "shanghai": {
+                "name": "Shanghai",
+                "link": "\/\/shanghai.craigslist.com.cn\/"
+            },
+            "shenyang": {
+                "name": "Shenyang",
+                "link": "\/\/shenyang.craigslist.com.cn\/"
+            },
+            "shenzhen": {
+                "name": "Shenzhen",
+                "link": "\/\/shenzhen.craigslist.com.cn\/"
+            },
+            "wuhan": {
+                "name": "Wuhan",
+                "link": "\/\/wuhan.craigslist.com.cn\/"
+            },
+            "xian": {
+                "name": "Xi'an",
+                "link": "\/\/xian.craigslist.com.cn\/"
+            }
+        },
+        "Guam \/ Micronesia": {
+            "micronesia": {
+                "name": "Guam-micronesia",
+                "link": "\/\/micronesia.craigslist.org\/"
+            }
+        },
+        "Hong Kong": {
+            "hongkong": {
+                "name": "Hong Kong",
+                "link": "\/\/hongkong.craigslist.hk\/"
+            }
+        },
+        "India": {
+            "ahmedabad": {
+                "name": "Ahmedabad",
+                "link": "\/\/ahmedabad.craigslist.co.in\/"
+            },
+            "bangalore": {
+                "name": "Bangalore",
+                "link": "\/\/bangalore.craigslist.co.in\/"
+            },
+            "bhubaneswar": {
+                "name": "Bhubaneswar",
+                "link": "\/\/bhubaneswar.craigslist.co.in\/"
+            },
+            "chandigarh": {
+                "name": "Chandigarh",
+                "link": "\/\/chandigarh.craigslist.co.in\/"
+            },
+            "chennai": {
+                "name": "Chennai (madras)",
+                "link": "\/\/chennai.craigslist.co.in\/"
+            },
+            "delhi": {
+                "name": "Delhi",
+                "link": "\/\/delhi.craigslist.co.in\/"
+            },
+            "goa": {
+                "name": "Goa",
+                "link": "\/\/goa.craigslist.co.in\/"
+            },
+            "hyderabad": {
+                "name": "Hyderabad",
+                "link": "\/\/hyderabad.craigslist.co.in\/"
+            },
+            "indore": {
+                "name": "Indore",
+                "link": "\/\/indore.craigslist.co.in\/"
+            },
+            "jaipur": {
+                "name": "Jaipur",
+                "link": "\/\/jaipur.craigslist.co.in\/"
+            },
+            "kerala": {
+                "name": "Kerala",
+                "link": "\/\/kerala.craigslist.co.in\/"
+            },
+            "kolkata": {
+                "name": "Kolkata (calcutta)",
+                "link": "\/\/kolkata.craigslist.co.in\/"
+            },
+            "lucknow": {
+                "name": "Lucknow",
+                "link": "\/\/lucknow.craigslist.co.in\/"
+            },
+            "mumbai": {
+                "name": "Mumbai",
+                "link": "\/\/mumbai.craigslist.co.in\/"
+            },
+            "pune": {
+                "name": "Pune",
+                "link": "\/\/pune.craigslist.co.in\/"
+            },
+            "surat": {
+                "name": "Surat Surat",
+                "link": "\/\/surat.craigslist.co.in\/"
+            }
+        },
+        "Indonesia": {
+            "jakarta": {
+                "name": "Indonesia",
+                "link": "\/\/jakarta.craigslist.org\/"
+            }
+        },
+        "Iran": {
+            "tehran": {
+                "name": "Iran",
+                "link": "\/\/tehran.craigslist.org\/"
+            }
+        },
+        "Iraq": {
+            "baghdad": {
+                "name": "Iraq",
+                "link": "\/\/baghdad.craigslist.org\/"
+            }
+        },
+        "Israel and Palestine": {
+            "haifa": {
+                "name": "Haifa",
+                "link": "\/\/haifa.craigslist.org\/"
+            },
+            "jerusalem": {
+                "name": "Jerusalem",
+                "link": "\/\/jerusalem.craigslist.org\/"
+            },
+            "telaviv": {
+                "name": "Tel Aviv",
+                "link": "\/\/telaviv.craigslist.org\/"
+            },
+            "ramallah": {
+                "name": "West Bank",
+                "link": "\/\/ramallah.craigslist.org\/"
+            }
+        },
+        "Japan": {
+            "fukuoka": {
+                "name": "Fukuoka",
+                "link": "\/\/fukuoka.craigslist.jp\/"
+            },
+            "hiroshima": {
+                "name": "Hiroshima",
+                "link": "\/\/hiroshima.craigslist.jp\/"
+            },
+            "nagoya": {
+                "name": "Nagoya",
+                "link": "\/\/nagoya.craigslist.jp\/"
+            },
+            "okinawa": {
+                "name": "Okinawa",
+                "link": "\/\/okinawa.craigslist.jp\/"
+            },
+            "osaka": {
+                "name": "Osaka-kobe-kyoto",
+                "link": "\/\/osaka.craigslist.jp\/"
+            },
+            "sapporo": {
+                "name": "Sapporo",
+                "link": "\/\/sapporo.craigslist.jp\/"
+            },
+            "sendai": {
+                "name": "Sendai",
+                "link": "\/\/sendai.craigslist.jp\/"
+            },
+            "tokyo": {
+                "name": "Tokyo",
+                "link": "\/\/tokyo.craigslist.jp\/"
+            }
+        },
+        "Korea": {
+            "seoul": {
+                "name": "Seoul",
+                "link": "\/\/seoul.craigslist.co.kr\/"
+            }
+        },
+        "Kuwait": {
+            "kuwait": {
+                "name": "Kuwait",
+                "link": "\/\/kuwait.craigslist.org\/"
+            }
+        },
+        "Lebanon": {
+            "beirut": {
+                "name": "Beirut, Lebanon",
+                "link": "\/\/beirut.craigslist.org\/"
+            }
+        },
+        "Malaysia": {
+            "malaysia": {
+                "name": "Malaysia",
+                "link": "\/\/malaysia.craigslist.org\/"
+            }
+        },
+        "Pakistan": {
+            "pakistan": {
+                "name": "Pakistan",
+                "link": "\/\/pakistan.craigslist.org\/"
+            }
+        },
+        "Philippines": {
+            "bacolod": {
+                "name": "Bacolod",
+                "link": "\/\/bacolod.craigslist.com.ph\/"
+            },
+            "naga": {
+                "name": "Bicol Region",
+                "link": "\/\/naga.craigslist.com.ph\/"
+            },
+            "cdo": {
+                "name": "Cagayan De Oro",
+                "link": "\/\/cdo.craigslist.com.ph\/"
+            },
+            "cebu": {
+                "name": "Cebu",
+                "link": "\/\/cebu.craigslist.com.ph\/"
+            },
+            "davaocity": {
+                "name": "Davao City",
+                "link": "\/\/davaocity.craigslist.com.ph\/"
+            },
+            "iloilo": {
+                "name": "Iloilo",
+                "link": "\/\/iloilo.craigslist.com.ph\/"
+            },
+            "manila": {
+                "name": "Manila",
+                "link": "\/\/manila.craigslist.com.ph\/"
+            },
+            "pampanga": {
+                "name": "Pampanga",
+                "link": "\/\/pampanga.craigslist.com.ph\/"
+            },
+            "zamboanga": {
+                "name": "Zamboanga",
+                "link": "\/\/zamboanga.craigslist.com.ph\/"
+            }
+        },
+        "Singapore": {
+            "singapore": {
+                "name": "Singapore",
+                "link": "\/\/singapore.craigslist.com.sg\/"
+            }
+        },
+        "Taiwan": {
+            "taipei": {
+                "name": "Taiwan",
+                "link": "\/\/taipei.craigslist.com.tw\/"
+            }
+        },
+        "Thailand": {
+            "bangkok": {
+                "name": "Thailand",
+                "link": "\/\/bangkok.craigslist.co.th\/"
+            }
+        },
+        "United Arab Emirates": {
+            "dubai": {
+                "name": "United Arab Emirates",
+                "link": "\/\/dubai.craigslist.org\/"
+            }
+        },
+        "Vietnam": {
+            "vietnam": {
+                "name": "Vietnam",
+                "link": "\/\/vietnam.craigslist.org\/"
+            }
+        }
+    },
+    "Oceania": {
+        "Australia": {
+            "adelaide": {
+                "name": "Adelaide",
+                "link": "\/\/adelaide.craigslist.com.au\/"
+            },
+            "brisbane": {
+                "name": "Brisbane",
+                "link": "\/\/brisbane.craigslist.com.au\/"
+            },
+            "cairns": {
+                "name": "Cairns",
+                "link": "\/\/cairns.craigslist.com.au\/"
+            },
+            "canberra": {
+                "name": "Canberra",
+                "link": "\/\/canberra.craigslist.com.au\/"
+            },
+            "darwin": {
+                "name": "Darwin",
+                "link": "\/\/darwin.craigslist.com.au\/"
+            },
+            "goldcoast": {
+                "name": "Gold Coast",
+                "link": "\/\/goldcoast.craigslist.com.au\/"
+            },
+            "melbourne": {
+                "name": "Melbourne",
+                "link": "\/\/melbourne.craigslist.com.au\/"
+            },
+            "ntl": {
+                "name": "Newcastle, NSW",
+                "link": "\/\/ntl.craigslist.com.au\/"
+            },
+            "perth": {
+                "name": "Perth",
+                "link": "\/\/perth.craigslist.com.au\/"
+            },
+            "sydney": {
+                "name": "Sydney",
+                "link": "\/\/sydney.craigslist.com.au\/"
+            },
+            "hobart": {
+                "name": "Tasmania",
+                "link": "\/\/hobart.craigslist.com.au\/"
+            },
+            "wollongong": {
+                "name": "Wollongong",
+                "link": "\/\/wollongong.craigslist.com.au\/"
+            }
+        },
+        "New Zealand": {
+            "auckland": {
+                "name": "Auckland",
+                "link": "\/\/auckland.craigslist.org\/"
+            },
+            "christchurch": {
+                "name": "Christchurch",
+                "link": "\/\/christchurch.craigslist.org\/"
+            },
+            "dunedin": {
+                "name": "Dunedin",
+                "link": "\/\/dunedin.craigslist.co.nz\/"
+            },
+            "wellington": {
+                "name": "Wellington",
+                "link": "\/\/wellington.craigslist.org\/"
+            }
+        }
+    },
+    "Latin America and Caribbean": {
+        "Argentina": {
+            "buenosaires": {
+                "name": "Buenos Aires",
+                "link": "\/\/buenosaires.craigslist.org\/"
+            }
+        },
+        "Bolivia": {
+            "lapaz": {
+                "name": "Bolivia",
+                "link": "\/\/lapaz.craigslist.org\/"
+            }
+        },
+        "Brazil": {
+            "belohorizonte": {
+                "name": "Belo Horizonte",
+                "link": "\/\/belohorizonte.craigslist.org\/"
+            },
+            "brasilia": {
+                "name": "Brasilia",
+                "link": "\/\/brasilia.craigslist.org\/"
+            },
+            "curitiba": {
+                "name": "Curitiba",
+                "link": "\/\/curitiba.craigslist.org\/"
+            },
+            "fortaleza": {
+                "name": "Fortaleza",
+                "link": "\/\/fortaleza.craigslist.org\/"
+            },
+            "portoalegre": {
+                "name": "Porto Alegre",
+                "link": "\/\/portoalegre.craigslist.org\/"
+            },
+            "recife": {
+                "name": "Recife",
+                "link": "\/\/recife.craigslist.org\/"
+            },
+            "rio": {
+                "name": "Rio De Janeiro",
+                "link": "\/\/rio.craigslist.org\/"
+            },
+            "salvador": {
+                "name": "Salvador, Bahia",
+                "link": "\/\/salvador.craigslist.org\/"
+            },
+            "saopaulo": {
+                "name": "Sao Paulo",
+                "link": "\/\/saopaulo.craigslist.org\/"
+            }
+        },
+        "Caribbean Islands": {
+            "caribbean": {
+                "name": "Caribbean Islands",
+                "link": "\/\/caribbean.craigslist.org\/"
+            }
+        },
+        "Chile": {
+            "santiago": {
+                "name": "Chile",
+                "link": "\/\/santiago.craigslist.org\/"
+            }
+        },
+        "Colombia": {
+            "colombia": {
+                "name": "Colombia",
+                "link": "\/\/colombia.craigslist.org\/"
+            }
+        },
+        "Costa Rica": {
+            "costarica": {
+                "name": "Costa Rica",
+                "link": "\/\/costarica.craigslist.org\/"
+            }
+        },
+        "Dominican Republic": {
+            "santodomingo": {
+                "name": "Dominican Republic",
+                "link": "\/\/santodomingo.craigslist.org\/"
+            }
+        },
+        "Ecuador": {
+            "quito": {
+                "name": "Ecuador",
+                "link": "\/\/quito.craigslist.org\/"
+            }
+        },
+        "El Salvador": {
+            "elsalvador": {
+                "name": "El Salvador",
+                "link": "\/\/elsalvador.craigslist.org\/"
+            }
+        },
+        "Guatemala": {
+            "guatemala": {
+                "name": "Guatemala",
+                "link": "\/\/guatemala.craigslist.org\/"
+            }
+        },
+        "Mexico": {
+            "acapulco": {
+                "name": "Acapulco",
+                "link": "\/\/acapulco.craigslist.com.mx\/"
+            },
+            "bajasur": {
+                "name": "Baja California Sur",
+                "link": "\/\/bajasur.craigslist.com.mx\/"
+            },
+            "chihuahua": {
+                "name": "Chihuahua",
+                "link": "\/\/chihuahua.craigslist.com.mx\/"
+            },
+            "juarez": {
+                "name": "Ciudad Juarez",
+                "link": "\/\/juarez.craigslist.com.mx\/"
+            },
+            "guadalajara": {
+                "name": "Guadalajara",
+                "link": "\/\/guadalajara.craigslist.com.mx\/"
+            },
+            "guanajuato": {
+                "name": "Guanajuato",
+                "link": "\/\/guanajuato.craigslist.com.mx\/"
+            },
+            "hermosillo": {
+                "name": "Hermosillo",
+                "link": "\/\/hermosillo.craigslist.com.mx\/"
+            },
+            "mazatlan": {
+                "name": "Mazatlan",
+                "link": "\/\/mazatlan.craigslist.com.mx\/"
+            },
+            "mexicocity": {
+                "name": "Mexico City",
+                "link": "\/\/mexicocity.craigslist.com.mx\/"
+            },
+            "monterrey": {
+                "name": "Monterrey",
+                "link": "\/\/monterrey.craigslist.com.mx\/"
+            },
+            "oaxaca": {
+                "name": "Oaxaca",
+                "link": "\/\/oaxaca.craigslist.com.mx\/"
+            },
+            "puebla": {
+                "name": "Puebla",
+                "link": "\/\/puebla.craigslist.com.mx\/"
+            },
+            "pv": {
+                "name": "Puerto Vallarta",
+                "link": "\/\/pv.craigslist.com.mx\/"
+            },
+            "tijuana": {
+                "name": "Tijuana",
+                "link": "\/\/tijuana.craigslist.com.mx\/"
+            },
+            "veracruz": {
+                "name": "Veracruz",
+                "link": "\/\/veracruz.craigslist.com.mx\/"
+            },
+            "yucatan": {
+                "name": "Yucatan",
+                "link": "\/\/yucatan.craigslist.com.mx\/"
+            }
+        },
+        "Nicaragua": {
+            "managua": {
+                "name": "Nicaragua",
+                "link": "\/\/managua.craigslist.org\/"
+            }
+        },
+        "Panama": {
+            "panama": {
+                "name": "Panama",
+                "link": "\/\/panama.craigslist.org\/"
+            }
+        },
+        "Peru": {
+            "lima": {
+                "name": "Peru",
+                "link": "\/\/lima.craigslist.org\/"
+            }
+        },
+        "Puerto Rico": {
+            "puertorico": {
+                "name": "Puerto Rico",
+                "link": "\/\/puertorico.craigslist.org\/"
+            }
+        },
+        "Uruguay": {
+            "montevideo": {
+                "name": "Montevideo",
+                "link": "\/\/montevideo.craigslist.org\/"
+            }
+        },
+        "Venezuela": {
+            "caracas": {
+                "name": "Venezuela",
+                "link": "\/\/caracas.craigslist.org\/"
+            }
+        },
+        "Virgin Islands, U.S.": {
+            "virgin": {
+                "name": "Virgin Islands",
+                "link": "\/\/virgin.craigslist.org\/"
+            }
+        }
+    },
+    "Africa": {
+        "Egypt": {
+            "cairo": {
+                "name": "Egypt",
+                "link": "\/\/cairo.craigslist.org\/"
+            }
+        },
+        "Ethiopia": {
+            "addisababa": {
+                "name": "Ethiopia",
+                "link": "\/\/addisababa.craigslist.org\/"
+            }
+        },
+        "Ghana": {
+            "accra": {
+                "name": "Ghana",
+                "link": "\/\/accra.craigslist.org\/"
+            }
+        },
+        "Kenya": {
+            "kenya": {
+                "name": "Kenya",
+                "link": "\/\/kenya.craigslist.org\/"
+            }
+        },
+        "Morocco": {
+            "casablanca": {
+                "name": "Morocco",
+                "link": "\/\/casablanca.craigslist.org\/"
+            }
+        },
+        "South Africa": {
+            "capetown": {
+                "name": "Cape Town",
+                "link": "\/\/capetown.craigslist.co.za\/"
+            },
+            "durban": {
+                "name": "Durban",
+                "link": "\/\/durban.craigslist.co.za\/"
+            },
+            "johannesburg": {
+                "name": "Johannesburg",
+                "link": "\/\/johannesburg.craigslist.co.za\/"
+            },
+            "pretoria": {
+                "name": "Pretoria",
+                "link": "\/\/pretoria.craigslist.co.za\/"
+            }
+        },
+        "Tunisia": {
+            "tunis": {
+                "name": "Tunisia",
+                "link": "\/\/tunis.craigslist.org\/"
+            }
+        }
+    }
+}

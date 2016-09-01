@@ -1,0 +1,7 @@
+{
+    "name": "brianwendt/craigslist-cities",
+    "description": "Dataset of all of the regions, states, and cities that Craigslist offers.",
+    "require": {
+        "masterminds/html5": "^2.2"
+    }
+}
